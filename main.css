@@ -35,8 +35,6 @@
 }
 
 .img2 {
-    Width: 100px;
-    Height: auto;
     padding-left: 50px;
     padding-right: 20px;
     padding-top: 5px;
@@ -46,11 +44,11 @@
 .team2 {
     padding-top: 10px;
     min-width: 40%;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .elo2 {
     padding-left: 10px;
     padding-top: 10px;
-    font-size: 40px;
+    font-size: 60px;
 }
