@@ -35,7 +35,7 @@ table {
 .row a {
   vertical-align: middle;
   text-align: left;
-  font-size:2vw;
+  font-size:4vw;
 }
 
 .img {
@@ -47,11 +47,11 @@ table {
 }
 
 .team {
-  padding-left: 6vw;
+  padding-left: 1vw;
   width: 75%;
 }
 
 .kopa {
-  padding-left: 6vw;
+  padding-left: 1vw;
   width: 10%;
 }
