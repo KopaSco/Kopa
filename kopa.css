@@ -8,18 +8,18 @@
 
 .titre h1 a, .titre h1 a:active {
   color: #ffffff;
-  font-size: 5vw;
+  font-size: 7vw;
   text-decoration:none;
 }
 
 .titre a {
   color: #ffffff;
-  font-size:2vw;
+  font-size:4vw;
 }
 
 p {
   padding-left:1vw;
-  font-size: 1.5vw;
+  font-size: 2vw;
   color: #C25100;
 }
 
@@ -47,11 +47,11 @@ table {
 }
 
 .team {
-  padding-left: 2vw;
-  width: 60%;
+  padding-left: 4vw;
+  width: 75%;
 }
 
 .kopa {
-  padding-left: 2vw;
+  padding-left: 4vw;
   width: 10%;
 }
