@@ -42,6 +42,12 @@ p {
 
 table {
   border-collapse: collapse;
+  width: 100%;
+}
+@media screen and (min-width: 800px) {
+  table  {
+     width: 800px;
+  }
 }
 
 .row {
@@ -70,7 +76,7 @@ table {
 @media screen and (min-width: 800px) {
   .img {
      max-width: 40%;
-  }
+}
 }
 @media screen and (min-width: 1000px) {
   .img {
