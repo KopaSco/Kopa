@@ -11,7 +11,7 @@
   font-size: 7vw;
   text-decoration:none;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .titre h1 a {
      font-size: 50px;
   }
@@ -21,7 +21,7 @@
   color: #ffffff;
   font-size: 3vw;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .titre a {
      font-size: 20px;
   }
@@ -34,7 +34,7 @@ p {
   font-size: 3vw;
   color: #C25100;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   p {
      font-size: 20px;
   }
@@ -54,9 +54,9 @@ table {
   text-align: left;
   font-size: 4vw;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .row a {
-     font-size: 30px;
+     font-size: 25px;
   }
 }
 
@@ -72,13 +72,13 @@ table {
   padding-left: 1vw;
   width: 70%;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 700px) {
   .team {
      width: 80%;
   }
 }
 
 .kopa {
-  padding-left: 1vw;
+  padding-right: 1vw;
   width: 10%;
 }
