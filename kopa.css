@@ -14,12 +14,12 @@
 
 .titre a {
   color: #ffffff;
-  font-size:4vw;
+  font-size:3vw;
 }
 
 p {
   padding-left:1vw;
-  font-size: 2vw;
+  font-size: 3vw;
   color: #C25100;
 }
 
@@ -47,11 +47,11 @@ table {
 }
 
 .team {
-  padding-left: 4vw;
+  padding-left: 6vw;
   width: 75%;
 }
 
 .kopa {
-  padding-left: 4vw;
+  padding-left: 6vw;
   width: 10%;
 }
