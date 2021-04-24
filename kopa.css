@@ -14,7 +14,7 @@
 
 .titre a {
   color: #ffffff;
-  font-size:3vw;
+  font-size: 3vw;
 }
 
 p {
@@ -35,20 +35,30 @@ table {
 .row a {
   vertical-align: middle;
   text-align: left;
-  font-size:4vw;
+  font-size: 4vw;
+}
+@media screen and (min-width: 1000px) {
+  .row a {
+     font-size: 30px;
+  }
 }
 
 .img {
   padding-bottom:0.5vw;
   padding-top:0.5vw;
   vertical-align: middle;
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
 .team {
   padding-left: 1vw;
-  width: 75%;
+  width: 70%;
+}
+@media screen and (min-width: 1000px) {
+  .team {
+     width: 80%;
+  }
 }
 
 .kopa {
