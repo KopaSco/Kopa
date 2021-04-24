@@ -2,7 +2,7 @@
   background-color: #2F4F4F;
   margin-top: 0;
   margin-bottom: 0px;
-  padding: 10px 10px 20px 40px;
+  padding: 5px 10px 20px 30px;
   border-bottom: solid 5px #C25100;
 }
 
@@ -77,8 +77,14 @@ table {
 }
 
 .team {
-  padding-left: 1vw;
   width: 70%;
+}
+
+.flag {
+  margin-left: 10px;
+  vertical-align: middle;
+  max-width: 5%;
+  height: auto;
 }
 
 .kopa {
