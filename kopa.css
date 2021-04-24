@@ -6,21 +6,38 @@
   border-bottom: solid 5px #C25100;
 }
 
-.titre h1 a, .titre h1 a:active {
+.titre h1 a {
   color: #ffffff;
   font-size: 7vw;
   text-decoration:none;
+}
+@media screen and (min-width: 1000px) {
+  .titre h1 a {
+     font-size: 50px;
+  }
 }
 
 .titre a {
   color: #ffffff;
   font-size: 3vw;
 }
+@media screen and (min-width: 1000px) {
+  .titre a {
+     font-size: 20px;
+  }
+}
 
 p {
-  padding-left:1vw;
+  padding-left:2vw;
+  padding-right:2vw;
+  text-align: justify;
   font-size: 3vw;
   color: #C25100;
+}
+@media screen and (min-width: 1000px) {
+  p {
+     font-size: 20px;
+  }
 }
 
 table {
