@@ -54,7 +54,7 @@ table {
   text-align: left;
   font-size: 4vw;
 }
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
   .row a {
      font-size: 25px;
   }
@@ -67,15 +67,20 @@ table {
   max-width: 50%;
   height: auto;
 }
+@media screen and (min-width: 800px) {
+  .img {
+     max-width: 40%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .img {
+     max-width: 30%;
+  }
+}
 
 .team {
   padding-left: 1vw;
   width: 70%;
-}
-@media screen and (min-width: 700px) {
-  .team {
-     width: 80%;
-  }
 }
 
 .kopa {
