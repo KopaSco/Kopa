@@ -68,11 +68,15 @@ table {
   }
 }
 
+.kit {
+    width : 15%;
+}
+
 .img {
-  padding-bottom:0.5vw;
-  padding-top:0.5vw;
+  padding-bottom:0.2vw;
+  padding-top:0.2vw;
   vertical-align: middle;
-  max-width: 50%;
+  width: 75%;
   height: auto;
 }
 
