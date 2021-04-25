@@ -27,6 +27,10 @@
   }
 }
 
+body {
+ background-color: #cdcdb4;
+}
+
 p {
   padding-left:2vw;
   padding-right:2vw;
