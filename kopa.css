@@ -28,12 +28,13 @@
 }
 
 .menu a, a:link, a:visited {
+  color: #2F4F4F;
   text-align: center;
   font-size: 4vw;
   text-decoration: none;
 }
 @media screen and (min-width: 700px) {
-  .menu a {
+  .menu a, a:link, a:visited {
      font-size: 26px;
   }
 }
