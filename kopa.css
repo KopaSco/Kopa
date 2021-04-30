@@ -9,7 +9,7 @@
 .titre h1 a {
   color: #ffffff;
   font-size: 7vw;
-  text-decoration:none;
+  text-decoration: none;
 }
 @media screen and (min-width: 700px) {
   .titre h1 a {
@@ -27,14 +27,42 @@
   }
 }
 
+.menu a {
+  text-align: center;
+  font-size: 4vw;
+  text-decoration: none;
+}
+@media screen and (min-width: 700px) {
+  .menu a {
+     font-size: 26px;
+  }
+}
+
+.cell_left {
+  background-color: #AAB7B7;
+  width : 33%;
+  text-align: center;
+}
+
+.cell_center {
+  background-color: #BBC5C5;
+  width : 34%;
+  text-align: center;
+}
+
+.cell_right {
+  background-color: #C9D1D1;
+  width : 33%;
+  text-align: center;
+}
+
 body {
  background-color: #cdcdb4;
 }
 
 p {
-  padding-left:2vw;
-  padding-right:2vw;
-  text-align: justify;
+  padding: 2vw 2vw 2vw 2vw;
+  text-align: left;
   font-size: 3vw;
   color: #C25100;
 }
@@ -44,13 +72,24 @@ p {
   }
 }
 
+.about {
+  padding: 0vw 3vw 0vw 2vw;
+  text-align: justify;
+  color: #2F4F4F;
+}
+@media screen and (min-width: 800px) {
+  .about {
+    width:750px;
+  }
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
 }
 @media screen and (min-width: 800px) {
   table  {
-     margin-left: auto;
+     margin-left: 0vw;
      margin-right: auto;
      width: 800px;
   }
