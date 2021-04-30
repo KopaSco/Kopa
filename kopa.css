@@ -75,10 +75,12 @@ p {
 .about {
   padding: 0vw 3vw 0vw 2vw;
   text-align: justify;
+  font-size: 4vw;
   color: #2F4F4F;
 }
 @media screen and (min-width: 800px) {
   .about {
+    font-size: 26px;
     width:750px;
   }
 }
